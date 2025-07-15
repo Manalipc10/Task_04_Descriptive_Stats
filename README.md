@@ -12,8 +12,6 @@ Each dataset is processed with three different approaches:
 2. **Pandas**
 3. **Polars**
 
-> **Do not include** the raw CSV files in this repository.
-
 ---
 
 ## Repository Structure
