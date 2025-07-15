@@ -1,5 +1,4 @@
 # Task_04_Descriptive_Stats
-# Task\_04\_Descriptive\_Stats
 
 A collection of scripts to compute descriptive statistics on three social‑media datasets:
 
